@@ -1,2 +1,2 @@
-# time-series
-Alura &amp; Edutech - Curso de Time Series (Séries Temporais)
+# Alura & Edutech
+## Data Science: Introdução a análise de series temporais
