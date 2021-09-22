@@ -1,2 +1,3 @@
 # Alura & Edutech
-## Data Science: Introdução a análise de series temporais
+## Python para Data Science 🐍
+## Data Science: Introdução a análise de séries temporais
