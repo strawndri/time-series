@@ -21,7 +21,7 @@
 
 ## Sobre o projeto 
 
-Projeto desenvolvido durante o curso [Data Science: análise de series temporais](https://cursos.alura.com.br/course/data-visualization-com-seaborn), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/). O objetivo foi compreender a importância das *times series* em análises de dados e como usá-la a partir de bibliotecas Python.
+Projeto desenvolvido durante o curso [Data Science: análise de series temporais](https://cursos.alura.com.br/course/data-science-series-temporais), na plataforma [Alura](https://www.alura.com.br/), pelo instrutor [Guilherme Lima](https://www.linkedin.com/in/guilherme-lima-458925178/). O objetivo foi compreender a importância das *times series* em análises de dados e como usá-la a partir de bibliotecas Python.
 
 ## Conhecimentos adquiridos
 - Compreensão de técnicas de análise de Séries temporais;
