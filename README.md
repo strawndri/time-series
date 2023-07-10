@@ -1,6 +1,5 @@
 # 📈 | Curso de Data Science: análise de series temporais
 
-![Licença](https://img.shields.io/badge/Licen%C3%A7a-MIT-f5b5ca.svg)
 ![Status](https://img.shields.io/badge/Status-Concluído-abf285.svg)
 
 ## Índice
@@ -9,7 +8,6 @@
 - [Aprendizagens](#aprendizagens)
 - [Como acessar o projeto?](#como-acessar-o-projeto)
 - [Tecnologias utilizadas](#tecnologias-utilizadas)
-- [Licença](#licença)
 
 ## Sobre o projeto
 
@@ -34,10 +32,6 @@ O projeto foi feito por completo no Google Colaboratory, logo, para acessar a an
 - [Matplotlib](https://matplotlib.org/): Biblioteca para criação de visualizações gráficas em Python;
 - [Pandas](https://pandas.pydata.org/docs/): Biblioteca para manipulação e análise de dados;
 - [Seaborn](https://seaborn.pydata.org/): Biblioteca de visualização de dados baseada no Matplotlib, com estilos adicionais e recursos estatísticos;
-
-## Licença
-
-Este projeto está licenciado sob a [Licença MIT](https://opensource.org/licenses/MIT). Consulte o arquivo `LICENSE` para obter mais informações sobre os termos de licenciamento.
 
 ---
 
